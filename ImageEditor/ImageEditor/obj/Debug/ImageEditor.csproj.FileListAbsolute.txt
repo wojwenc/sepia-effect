@@ -1,0 +1,9 @@
+c:\users\wojtek\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+c:\users\wojtek\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+c:\users\wojtek\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+c:\users\wojtek\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojResolveAssemblyReference.cache
+c:\users\wojtek\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+c:\users\wojtek\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+c:\users\wojtek\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.Cache
+c:\users\wojtek\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+c:\users\wojtek\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
